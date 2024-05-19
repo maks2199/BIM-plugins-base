@@ -9,9 +9,6 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.UI.Selection;
 using Autodesk.Revit.DB.Architecture;
-using static System.Net.Mime.MediaTypeNames;
-using System.Text.RegularExpressions;
-using System.Xml.Linq;
 
 namespace RevitBasic_plugin
 {
