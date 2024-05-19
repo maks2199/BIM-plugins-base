@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitBasic-plugin", "RevitBasic-plugin\RevitBasic-plugin.csproj", "{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaBasic-plugin", "TeklaBasic-plugin\TeklaBasic-plugin.csproj", "{6895D019-8405-498C-8D6B-16C096E06136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6895D019-8405-498C-8D6B-16C096E06136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6895D019-8405-498C-8D6B-16C096E06136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6895D019-8405-498C-8D6B-16C096E06136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6895D019-8405-498C-8D6B-16C096E06136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
