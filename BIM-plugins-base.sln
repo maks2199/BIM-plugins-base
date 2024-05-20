@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{D4A8DF59-48C3-4CD2-9388-C29D7D70F3DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitBasic-plugin", "RevitBasic-plugin\RevitBasic-plugin.csproj", "{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitBasicPlugin", "RevitBasic-plugin\RevitBasicPlugin.csproj", "{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaBasic-plugin", "TeklaBasic-plugin\TeklaBasic-plugin.csproj", "{6895D019-8405-498C-8D6B-16C096E06136}"
 EndProject

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>RevitBasicPlugin</Name>
+		<Assembly>RevitBasicPlugin\RevitBasicPlugin.dll</Assembly>
+		<AddInId>5f96a79f-0e28-4d02-be10-251c8032a278</AddInId>
+		<FullClassName>RevitBasicPlugin.AppMain</FullClassName>
+		<VendorId>IDE</VendorId>
+		<VendorDescription>IDE Engeneering</VendorDescription>
+	</AddIn> 
+</RevitAddIns>
