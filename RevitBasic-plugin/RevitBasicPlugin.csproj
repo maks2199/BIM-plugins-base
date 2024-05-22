@@ -64,6 +64,9 @@
 echo "ProjectDir = $(ProjectDir) "
 echo "ProjectName = $(ProjectName)"
 
+xcopy "$(TargetDir)*" "C:\ProgramData\Autodesk\Revit\Addins\2022\$(ProjectName)\" /y /i /s
+xcopy  "$(ProjectDir)$(ProjectName).addin" "C:\ProgramData\Autodesk\Revit\Addins\2022\" /y /i /s
+
 rem xcopy "$(ProjectDir)$(ProjectName).rndesc" "D:\Program Files\Renga\Plugins\$(ProjectName)\"  /y /i 
 rem xcopy "$(TargetDir)*" "D:\Program Files\Renga\Plugins\$(ProjectName)\" /y /i /s</PostBuildEvent>
   </PropertyGroup>
