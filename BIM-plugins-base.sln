@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitBasicPlugin", "RevitBasic-plugin\RevitBasicPlugin.csproj", "{AB458E6D-0BDB-4EC6-8FAF-7FFC1EF93F8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaBasic-plugin", "TeklaBasic-plugin\TeklaBasic-plugin.csproj", "{6895D019-8405-498C-8D6B-16C096E06136}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaBasicPlugin", "TeklaBasic-plugin\TeklaBasicPlugin.csproj", "{6895D019-8405-498C-8D6B-16C096E06136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
